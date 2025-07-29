@@ -86,7 +86,7 @@
     <h1>¡Un Lunes de pobre lo sacará!</h1>
   </header>
   <div class="content">
-    <h2>Resultado sorteo #4506</h2>
+    <h2>Resultado sorteo #4507</h2>
     <p><strong>Lunes 28 de julio de 2025</strong></p>
     <div class="resultado">
       <h3>Número Ganador</h3>
