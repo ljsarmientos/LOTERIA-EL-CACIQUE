@@ -119,9 +119,5 @@
     <header>
     <img src="VALOR.jpg" style="width: 100%; max-width: 1000px; height: auto;" alt="Premio Mayor">
 
-    </div>
 
-  </div>
-</body>
-</html>
   
