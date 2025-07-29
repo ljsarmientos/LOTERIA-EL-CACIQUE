@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -86,7 +86,7 @@
     <h1>¡Un Lunes de pobre lo sacará!</h1>
   </header>
   <div class="content">
-    <h2>Resultado sorteo #4582</h2>
+    <h2>Resultado sorteo #2301</h2>
     <p><strong>Lunes 28 de julio de 2025</strong></p>
     <div class="resultado">
       <h3>Número Ganador</h3>
@@ -119,8 +119,4 @@
     <header>
     <img src="VALOR.jpg" style="width: 100%; max-width: 1000px; height: auto;" alt="Premio Mayor">
 
-    </div>
-
-  </div>
-</body>
-</html># LOTERIA-EL-CACIQUE
+  
