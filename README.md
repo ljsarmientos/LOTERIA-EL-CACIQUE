@@ -85,36 +85,36 @@
     <h1>¡Un Lunes de pobre lo sacará!</h1>
   </header>
   <div class="content">
-    <h2>Resultado sorteo #4582</h2>
-    <p><strong>Lunes 28 de julio de 2025</strong></p>
+    <h2>Resultado sorteo #4589</h2>
+    <p><strong>Martes 29 de julio de 2025</strong></p>
     <div class="resultado">
       <h3>Número Ganador</h3>
       <div class="numeros">
-        <div class="bola">2</div>
-        <div class="bola">3</div>
         <div class="bola">0</div>
+        <div class="bola">5</div>
         <div class="bola">1</div>
+        <div class="bola">0</div>
       </div>
       <h3>Serie</h3>
       <div class="serie">
-        <div class="bola">2</div>
-        <div class="bola">0</div>
+        <div class="bola">3</div>
+        <div class="bola">8</div>
         <div class="bola">7</div>
       </div>
       <h3>Lanzamiento adicional</h3>
       <div class="adicional">
-        <div class="bola">7</div>
-        <div class="bola">7</div>
-        <div class="bola">4</div>
-        <div class="bola">7</div>
-        <div class="bola">0</div>
+        <div class="bola">8</div>
+        <div class="bola">5</div>
+        <div class="bola">2</div>
+        <div class="bola">6</div>
+        <div class="bola">1</div>
         <div class="bola">0</div>
       </div>
     </div>
 
     <!-- TEXTO DEL GANADOR -->
     <div class="ganador">
-      GANADOR DEL PREMIO MAYOR: JOSÉ DEL CARMEN BATISTA CASTILLO<br>
+      GANADOR DEL PREMIO MAYOR: FABIOLA CHUEZ<br>
     <header>
     <img src="VALOR.jpg" style="width: 100%; max-width: 1000px; height: auto;" alt="Premio Mayor">
 
