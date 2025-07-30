@@ -82,7 +82,7 @@
 <body>
   <header>
     <img src="LOGO.jpg" alt="Lotería de Boyacá">
-    <h1>¡Un Lunes de pobre lo sacará!</h1>
+    <h1>¡Un Martes de pobre lo sacará!</h1>
   </header>
   <div class="content">
     <h2>Resultado sorteo #4589</h2>
